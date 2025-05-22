@@ -12,7 +12,7 @@ if st.button("🔄 Refresh Feeds"):
 
 # Affichage des articles
 grouped = get_articles_by_topic()
-st.title("📥  📤")
+st.title("🍀 Creative Development Portal 🚀")
 
 if grouped:
     cols = st.columns(len(grouped))
