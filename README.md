@@ -2,6 +2,8 @@
 
 **A personal tech dasboard to stay up to date with topics I'm interested in: Data, Digital Arts and Agentic Coding. Feeds are centralized, tagged, filtered and searchable.**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## What it is
 
 Tech watch usually means a dozen open tabs, a newsletter you stop reading after three weeks, and a social feed that decides for you what matters today.
