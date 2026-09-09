@@ -1,6 +1,6 @@
 # Afro's Tech DashBoard
 
-**A personal tech dasboard to stay up to date with topics I'm interested in: Data, Digital Arts and Agentic Coding. Feeds are centralized, tagged, filtered and searchable.**
+**A personal tech dashboard to stay up to date with topics I'm interested in. Feeds are centralized, tagged, filtered and searchable.**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -14,19 +14,13 @@ Feeds are refreshed on every page load.
 
 ## Feeds
 
-| Tag | Source |
+| Theme | Sources |
 |---|---|
-| **Agentic Coding** | [MIT Technology Review](https://www.technologyreview.com/feed/) |
-| **Digital Arts** | [3dtotal](https://3dtotal.com/rss), [The Inspiration Grid](https://theinspirationgrid.com/feed/), [Motionographer](https://motionographer.com/feed/) |
-| **Data Engineering** | [Towards Data Science](https://towardsdatascience.com/feed) |
-
-## How it works
-
-```
-feeds.py    →  fetches and parses every RSS source, attaches its tag
-db.py       →  stores entries in SQLite
-app.py      →  serves the page: tag filters + full-text search
-```
+| **AI & Data** | [MIT Technology Review](https://www.technologyreview.com/feed/) · [Towards Data Science](https://towardsdatascience.com/feed) |
+| **Dev & community** | [Lobsters](https://lobste.rs/rss) · [Dev.to](https://dev.to/feed) · [GitHub Blog](https://github.blog/feed/) · [Real Python](https://realpython.com/atom.xml) · [Smashing Magazine](https://www.smashingmagazine.com/feed/) |
+| **Security & infra** | [Krebs on Security](https://krebsonsecurity.com/feed/) · [The Hacker News](https://feeds.feedburner.com/TheHackersNews) · [The New Stack](https://thenewstack.io/feed/) |
+| **Design & creative** | [Awwwards](https://www.awwwards.com/blog/feed/) · [Codrops](https://tympanus.net/codrops/feed/) · [Abduzeedo](https://abduzeedo.com/rss.xml) · [Designboom](https://www.designboom.com/feed/) |
+| **3D, CGI & VFX** | [80 Level](https://80.lv/feed/) · [CG Channel](https://www.cgchannel.com/feed/) · [Motionographer](https://motionographer.com/feed/) |
 
 ## Work in progress
 
