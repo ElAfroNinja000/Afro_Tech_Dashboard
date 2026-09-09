@@ -1,4 +1,4 @@
-# DashboardTech
+# Afro's Tech DashBoard
 
 **A personal tech dasboard to stay up to date with topics I'm interested in: Data, Digital Arts and Agentic Coding. Feeds are centralized, tagged, filtered and searchable.**
 
@@ -6,7 +6,7 @@
 
 Tech watch usually means a dozen open tabs, a newsletter you stop reading after three weeks, and a social feed that decides for you what matters today.
 
-DashboardTech is the boring alternative. A handful of RSS feeds I picked myself, pulled into one page, tagged by theme.
+This project is the boring alternative. A handful of RSS feeds I picked myself, pulled into one page, tagged by theme.
 
 Feeds are refreshed on every page load, so what you see is always current.
 
